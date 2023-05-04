@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.themeButton{
+    /* font-family: 'Raleway', sans-serif; */
+    font-size: 30px;
+    background-color: #282c34;
+    color: white;
+    border-radius: 20px;
+    transition: 0.5s ease-out;
+    border: #282c34;
+    padding: 20px;
+}
+.blackButton{
+    font-size: 30px;
+    background-color: yellow;
+    border: yellow;
+    color: #282c34;
+    border-radius: 20px;
+    transition: 0.5s ease-out;
+    padding: 20px;
+}
