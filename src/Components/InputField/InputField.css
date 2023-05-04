@@ -9,6 +9,7 @@
     width: 70vw;
 }
 .form input{
+    width: 70%;
     border-radius: 20px;
     background-color: none;
     font-size: 20px;
